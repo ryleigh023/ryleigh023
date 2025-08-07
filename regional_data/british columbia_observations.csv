@@ -1,0 +1,2 @@
+observation_id,region,location_name,latitude,longitude,elevation,timestamp,observer_type,observer_experience,air_temperature,wind_speed,wind_direction,precipitation_24h,new_snow_24h,total_depth,snow_density,surface_condition,avalanche_activity,avalanche_size,avalanche_type,instability_signs,slope_angle,aspect,terrain_feature,danger_rating,confidence,data_source,source_url
+SNOTEL_713_CO_SNTL_2024-01-15,British Columbia,Loveland Basin,39.6833,-105.8833,3505,2024-01-15,automated,professional,-12,28,,2.5,,145,,,False,,,,,,,,,SNOTEL,

@@ -1,0 +1,19 @@
+Regional Avalanche Model - Colorado
+==================================================
+
+Model Type: Random Forest
+Training Date: 2025-08-07 00:37:36
+Training Samples: 100
+Test Accuracy: 0.800
+Cross-Validation: 0.764±0.090
+Features Used: 11
+Feature List: elevation, aspect_numerical, slope_angle, new_snow_24h, wind_speed, air_temperature, steep_slope, high_wind, instability_score, elevation_normalized, wind_load
+
+Best Parameters:
+  max_depth: None
+  min_samples_leaf: 4
+  min_samples_split: 2
+  n_estimators: 50
+
+Data Quality Warnings:
+  • Severe class imbalance: ratio 6.7
