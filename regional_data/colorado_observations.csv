@@ -1,0 +1,4 @@
+observation_id,region,location_name,latitude,longitude,elevation,timestamp,observer_type,observer_experience,air_temperature,wind_speed,wind_direction,precipitation_24h,new_snow_24h,total_depth,snow_density,surface_condition,avalanche_activity,avalanche_size,avalanche_type,instability_signs,slope_angle,aspect,terrain_feature,danger_rating,confidence,data_source,source_url
+CAIC_001,Colorado,Loveland Pass,39.6656,-105.8019,3655,2024-01-15,professional,professional,,35,SW,,25.0,,,,True,D2,,,38.0,NE,,Considerable,,CAIC,
+CAIC_002,Colorado,Berthoud Pass,39.7979,-105.7764,3446,2024-01-16,public,intermediate,,25,W,,15.0,,,,False,,,,32.0,N,,Moderate,,CAIC,
+SNOTEL_713_CO_SNTL_2024-01-15,Colorado,Loveland Basin,39.6833,-105.8833,3505,2024-01-15,automated,professional,-12.0,28,,2.5,,145.0,,,False,,,,,,,,,SNOTEL,
