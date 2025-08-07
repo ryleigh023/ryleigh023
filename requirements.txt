@@ -1,0 +1,18 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Computer vision
+opencv-python>=4.6.0
+
+# Model persistence
+joblib>=1.2.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Additional utilities
+pathlib2>=2.3.0
+typing-extensions>=4.0.0
